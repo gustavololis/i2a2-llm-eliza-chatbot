@@ -8,7 +8,7 @@ Apesar das críticas, Eliza continua a ser um programa de computador importante 
 
 ## Demo App
 
-[![i2a2 Eliza Chatbot]](https://i2a2-eliza.streamlit.app/)
+[i2a2 Eliza Chatbot](https://i2a2-eliza.streamlit.app/)
 
 ## Section Heading
 
@@ -17,6 +17,7 @@ Apesar das críticas, Eliza continua a ser um programa de computador importante 
 ## Further Reading
 
 Alguns Links usados neste projeto:
+- https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps
 - https://github.com/streamlit/app-starter-kit/blob/master/streamlit_app.py
 - https://blog.streamlit.io/langchain-tutorial-1-build-an-llm-powered-app-in-18-lines-of-code/
 - https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app
