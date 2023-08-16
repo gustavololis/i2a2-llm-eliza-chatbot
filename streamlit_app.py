@@ -34,7 +34,7 @@ if prompt := st.chat_input("Escreva aqui"):
             for chunk in response.split():
                 for char in chunk:
                     full_response += char
-                    time.sleep(0.10)
+                    time.sleep(0.07)
                     # Add a blinking cursor to simulate typing
                     message_placeholder.markdown(full_response + "▌")
                 full_response += ' '
